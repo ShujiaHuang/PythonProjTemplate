@@ -1,6 +1,7 @@
 # 一个项目骨架
 
-*一下内容引用自[这里](http://www.2cto.com/shouce/Pythonbbf/ex46.html)*   
+##### *以下内容引用自[这里](http://www.2cto.com/shouce/Pythonbbf/ex46.html)*   
+
 这里你将学会如何建立一个项目“骨架”目录。这个骨架目录具备让项目跑起来的所有基本内容。它里边会包含你的项目文件布局、自动化测试代码，模组，以及安装脚本。当你建立一个新项目的时候，只要把这个目录复制过去，改改目录的名字，再编辑里边的文件就行了。
 
 ## 骨架内容
@@ -72,10 +73,10 @@ def test_basic():
 
 接下来你需要安装下面的软件包：
 
-pip – <http://pypi.python.org/pypi/pip>
-distribute – <http://pypi.python.org/pypi/distribute>
-nose – <http://pypi.python.org/pypi/nose/>
-virtualenv – <http://pypi.python.org/pypi/virtualenv>
+pip – <http://pypi.python.org/pypi/pip>  
+distribute – <http://pypi.python.org/pypi/distribute>   
+nose – <http://pypi.python.org/pypi/nose/>   
+virtualenv – <http://pypi.python.org/pypi/virtualenv>   
 
 不要只是手动下载并且安装这些软件包，你应该看一下别人的建议，尤其看看针对你的操作系统别人是怎样建议你安装和使用的。同样的软件包在不一样的操作系统上面的安装方式是不一样的，不一样版本的 Linux 和 OSX 会有不同，而 Windows 更是不同。
 
